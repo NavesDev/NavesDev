@@ -13,8 +13,9 @@ Software Engineer focused on developing robust systems and intelligent **AI** so
 
 ### 🤖 Artificial Intelligence & Productivity (The AI Edge)
 Integrating AI into the development lifecycle to maximize efficiency and innovation:
-- **AI-Powered Workflow:** Utilizing plugins and skills like [superpowers](https://github.com/obra/superpowers) for coding acceleration and automation of cognitive tasks.
-- **Business Automation:** Developing tools that leverage AI to reason about business logic and software architecture.
+- **AI-Powered Workflow:** Utilizing advanced tools like **Claude Code**, **GitHub Copilot**, **Gemini CLI**, and **Open Claw**, alongside skills like [superpowers](https://github.com/obra/superpowers) for coding acceleration.
+- **AI Automations & Agents:** Specialist in building custom AI-driven automations and autonomous agents to streamline complex workflows, data extraction, and cognitive tasks.
+- **Business Logic AI:** Developing tools that leverage AI to reason about business strategy and software architecture.
 
 ### 🛠️ Software Engineering & Principles
 Applying technical rigor to ensure maintainability and performance:
