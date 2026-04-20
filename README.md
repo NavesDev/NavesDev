@@ -10,6 +10,7 @@ Software Engineer focused on developing robust systems and intelligent **AI** so
 - **Java Stack:** Development with **Java**, **FreeMarker**, **Arquillian**, and **JUnit**, ensuring the delivery of tested and resilient features.
 - **Web Development:** Creating modern and responsive interfaces with **HTML5, CSS3, and JavaScript (ES6+)**.
 - **Business Management:** Experience with **Ruby on Rails** for developing business management systems and internal process automation.
+- **Python Automation & Quality:** **Python** automations for **web scraping** and data extraction, **E2E testing** on critical paths, and **automated remediation** (catching recurring failures and applying fixes or clear alerts) to reduce manual work and improve reliability.
 
 ### 🤖 Artificial Intelligence & Productivity (The AI Edge)
 Integrating AI into the development lifecycle to maximize efficiency and innovation:
@@ -24,6 +25,38 @@ Applying technical rigor to ensure maintainability and performance:
 - **Processes & Agility:** Agile Methodologies (Scrum/Kanban), **Remote Collaboration**, **Task Management (OpenProject/Jira)**, **Git (GitHub/GitLab)**, **Feature Branch Workflow**, **Conventional Commits**, Requirements Gathering (FR/NFR), and Business Rule analysis.
 
 ---
+
+### Tech Stack
+<p align="center">
+  <b>Backend & platforms</b><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</p>
+
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+<p align="center">
+  <b>Templating / Server-side Rendering</b><br/>
+  <img src="https://img.shields.io/badge/FreeMarker-0E7C86?style=for-the-badge&logoColor=white" alt="FreeMarker"/>
+  <img src="https://img.shields.io/badge/JSP-2F5D62?style=for-the-badge&logoColor=white" alt="JSP"/>
+</p>
+
+<p align="center">
+  <b>Scripting</b><br/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+</p>
 
 ### 🌟 Featured Projects
 
