@@ -7,7 +7,7 @@ Software Engineer focused on developing robust systems and intelligent **AI** so
 
 ### 🏛️ Professional Experience
 - **Liferay Development:** Working on government portals and services using the **Liferay DXP** ecosystem.
-- **Java Stack:** Development with **Java**, **FreeMarker**, **Arquillian**, and **JUnit**, ensuring the delivery of tested and resilient features.
+- **Java Stack:** Development with **Java**, **FreeMarker**, **Hibernate**, **Arquillian**, **Maven**, **Spring Boot**, **JUnit** and others, ensuring the delivery of tested and resilient features.
 - **Web Development:** Creating modern and responsive interfaces with **HTML5, CSS3, and JavaScript (ES6+)**.
 - **Business Management:** Experience with **Ruby on Rails** for developing business management systems and internal process automation.
 - **Python Automation & Quality:** **Python** automations for **web scraping** and data extraction, **E2E testing** on critical paths, and **automated remediation** (catching recurring failures and applying fixes or clear alerts) to reduce manual work and improve reliability.
